@@ -1,0 +1,142 @@
+Testing the model
+Testing for testSample = 1
+Testing for testSample = 2
+Testing for testSample = 3
+Testing for testSample = 4
+Testing for testSample = 5
+Testing for testSample = 6
+Stats for k = 1 nearest neighbours
+ans =
+     1     0     1
+     1     1     0
+     2     0     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 2 nearest neighbours
+ans =
+     1     0     1
+     2     0     0
+     2     0     0
+correct =
+     1
+incorrect =
+     5
+Stats for k = 3 nearest neighbours
+ans =
+     1     0     1
+     0     2     0
+     0     2     0
+correct =
+     3
+incorrect =
+     3
+Stats for k = 4 nearest neighbours
+ans =
+     1     0     1
+     0     2     0
+     0     2     0
+correct =
+     3
+incorrect =
+     3
+Stats for k = 5 nearest neighbours
+ans =
+     1     0     1
+     0     2     0
+     0     2     0
+correct =
+     3
+incorrect =
+     3
+Stats for k = 6 nearest neighbours
+ans =
+     1     0     1
+     0     2     0
+     0     2     0
+correct =
+     3
+incorrect =
+     3
+Stats for k = 7 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 8 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 9 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 10 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 11 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 12 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 13 nearest neighbours
+ans =
+     0     0     2
+     0     2     0
+     0     2     0
+correct =
+     2
+incorrect =
+     4
+Stats for k = 14 nearest neighbours
+ans =
+     1     1     0
+     0     2     0
+     0     2     0
+correct =
+     3
+incorrect =
+     3
+Stats for k = 15 nearest neighbours
+ans =
+     2     0     0
+     2     0     0
+     2     0     0
+correct =
+     2
+incorrect =
+     4
