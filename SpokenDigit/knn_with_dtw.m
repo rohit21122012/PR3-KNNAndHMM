@@ -1,7 +1,8 @@
 format compact
+format long
 diary result.txt
 
-[train, test] = datasets('TestFeatures/forest/','TestFeatures/mountain/','TestFeatures/opencountry/');
+[train, test] = datasets('TestFeatures/class1/','TestFeatures/class2/','TestFeatures/class3/');
 
 train = train';
 test = test';
